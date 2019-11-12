@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1, 
+        "firstName": "Akaljot",
+        "lastName": "Gujjar",
+        "email": "akaljotgujjar@mail.fresnostate.edu",
+        "phone": "(559) 234-4567",
+        "editing": false
+    },
+    {
+        "id": 2, 
+        "firstName": "Mike",
+        "lastName": "Tyson",
+        "email": "mike@mail.fresnostate.edu",
+        "phone": "(559) 222-2222",
+        "editing": false
+    },
+    {
+        "id": 3, 
+        "firstName": "Joe",
+        "lastName": "Biden",
+        "email": "joe@mail.fresnostate.edu",
+        "phone": "(559) 098-7654",
+        "editing": false
+    }
+]
